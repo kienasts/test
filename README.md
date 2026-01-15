@@ -6,3 +6,4 @@ This was added on the cloned repository.
 
 This was added to create a merge conflict.
 
+This is from the "new" branch.
