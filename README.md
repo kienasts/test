@@ -4,4 +4,5 @@ This is a test repository for the 2026 course Clean Code, Documentation & Versio
 
 This was added on the cloned repository.
 
-merge conflict
+This was added to create a merge conflict.
+
